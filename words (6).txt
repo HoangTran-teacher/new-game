@@ -1,0 +1,45 @@
+@title Word Rush
+@showtext off
+@time 60
+
+# Pp /p/
+tip | Pp says /p/ as in pizza.
+🍕 | pizza
+🍝 | pasta
+🍿 | popcorn
+🥧 | pie
+🍐 | pear
+
+# Kk /k/
+tip | Kk says /k/ as in kite.
+🪁 | kite
+🚲 | bike
+🐱 | kitten
+🔑 | key
+🤴 | king
+
+# Ss /s/
+tip | Ss says /s/ as in sea.
+⛵ | sail
+🏖️ | sand
+🌊 | sea
+🦭 | seal
+🧦 | socks
+
+# Rr /r/
+tip | Rr says /r/ as in rabbit.
+🌈 | rainbow
+🏞️ | river
+🛣️ | road
+🐰 | rabbit
+🌹 | rose
+🤖 | robot
+
+# Qq /kw/
+tip | Qq says /kw/ as in queen.
+❓ | question
+🟦 | square
+📝 | quiz
+👸 | queen
+🛏️ | quilt
+🤫 | quiet
